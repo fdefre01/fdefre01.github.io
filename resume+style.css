@@ -1,0 +1,40 @@
+
+body{
+	background-color: #FCFAF0;
+	font-family: Garamond;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
+}
+
+h1{
+	font-family: Garamond;
+	display: flex;
+	justify-content: center;
+	background-color:#AEB05D;
+	margin-top: 20px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+
+}
+
+.unit{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.group{
+	font-weight: bold;
+}
+
+.position{
+	font-style: italic;
+}
+
+.link{
+	text-align: center;
+	background-color: #AEB05D;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	color: black;
+
+}

@@ -1,0 +1,54 @@
+
+h1{
+	font-family: Garamond;
+	display: flex;
+	justify-content: center;
+	background-color:#AEB05D;
+	margin-top: 20px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+
+}
+
+body{
+	background-color: #FCFAF0;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
+}
+
+#headshot{
+	text-align: center;
+}
+img{
+	padding: 2%;
+	height: 50%;
+	width: 50%;
+}
+
+.linkcontainer{
+	display: flex;
+	background-color: #AEB05D;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	justify-content: center;
+}
+
+.linkmenu{
+	width: 900px;
+	display: flex;
+	justify-content: space-between;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.biolink{
+	font-size: 110%;
+	font-family: Garamond;
+}
+
+.resumelink{
+	font-size: 110%;
+	font-family: Garamond;
+	
+}
